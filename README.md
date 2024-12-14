@@ -5,11 +5,10 @@
 
 Aquí están algunas de las tecnologías con las que trabajo habitualmente:
 
-- **JavaScript/TypeScript** 
-- **Angular** / **React**
-- **Java** / **Spring Boot**
-- **Node.js**
-- **Docker** / **AWS**
+- **Java / JavaScript / TypeScript** 
+- **Angular / Spring Boot**
+- **Docker**
+- **AWS**
 - **MongoDB** / **Oracle**
 
 ## 📊 Estadísticas de GitHub
