@@ -1,7 +1,23 @@
 ### Hi there 👋
 ## This is AFOXJONES GitHub
 
-## This readme is in construction
+## 💻 Tecnologías que utilizo
+
+Aquí están algunas de las tecnologías con las que trabajo habitualmente:
+
+- **JavaScript/TypeScript** 
+- **Angular** / **React**
+- **Java** / **Spring Boot**
+- **Node.js**
+- **Docker** / **AWS**
+- **MongoDB** / **Oracle**
+
+## 📊 Estadísticas de GitHub
+
+![Álvaro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AFOXJONES&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AFOXJONES&layout=compact)
+
 <!--
 **AFOXJONES/AFOXJONES** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
