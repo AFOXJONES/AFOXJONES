@@ -1,9 +1,7 @@
 ### Hi there 👋
 ## This is AFOXJONES GitHub
 
-## 💻 Tecnologías que utilizo
-
-Aquí están algunas de las tecnologías con las que trabajo habitualmente:
+## 💻 Tecnologies that I use:
 
 - **Java / JavaScript / TypeScript** 
 - **Angular / Spring Boot**
@@ -11,7 +9,7 @@ Aquí están algunas de las tecnologías con las que trabajo habitualmente:
 - **AWS**
 - **MongoDB** / **Oracle**
 
-## 📊 Estadísticas de GitHub
+## 📊 Stats in GitHub
 
 ![Álvaro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AFOXJONES&show_icons=true&theme=radical)
 
