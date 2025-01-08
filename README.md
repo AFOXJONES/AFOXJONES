@@ -7,7 +7,7 @@
 - **Angular / Spring Boot**
 - **Docker**
 - **AWS**
-- **MongoDB** / **Oracle**
+- **MongoDB** / **Oracle** / **Postgre** (NoSQL & SQL)
 
 ## 📊 Stats in GitHub
 
